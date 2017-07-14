@@ -1,0 +1,63 @@
+Initialize engine version: 5.5.0p3 (84ad46be53aa)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80070057)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.4752]
+    Renderer: NVIDIA GeForce GTX 970M    
+    Vendor:   NVIDIA
+    VRAM:     2953 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Workspace\New Unity Project 1\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Workspace\New Unity Project 1\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Workspace\New Unity Project 1\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Workspace\New Unity Project 1\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.437672 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1808 -> priority: 1 
+  Thread -> id: 244c -> priority: 1 
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.185033 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 956.
+Total: 0.921736 ms (FindLiveObjects: 0.058422 ms CreateObjectMapping: 0.026053 ms MarkObjects: 0.829760 ms  DeleteObjects: 0.007105 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.76.153.37:9999}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientRpc call on un-spawned object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
